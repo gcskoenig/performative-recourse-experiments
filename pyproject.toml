@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.17"]
+build-backend = "hatchling.build"
+
+[project]
+name = "recourse"
+version = "0.1.0"
+description = "Implementation of the recourse methods"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Gunnar König", email = "gunnar.koenig@pm.me" }
+]
+dependencies = [
+  # Any runtime dependencies, e.g. "requests>=2.0,<3.0"
+]
+requires-python = ">=3.7"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Source Code" = "https://github.com/gcskoenig/paper-2025-performative_recourse"
+"Issue Tracker" = "https://github.com/gcskoenig/paper-2025-performative_recourse/issues"
