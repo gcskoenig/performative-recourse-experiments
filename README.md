@@ -1,6 +1,6 @@
 # Code Accompagnying "Performative Validity of Recourse Explanations"
 
-This repository contains the experiments for the paper "Performative Validity of Recourse Explanations" submitted to NeurIPS 2025.
+This repository contains the experiments for the paper "Performative Validity of Recourse Explanations" on [arXiv](https://arxiv.org/pdf/2506.15366).
 
 ## Installation
 
